@@ -6,7 +6,6 @@ public class GraphIO {
     AdjGraph G;
     String fileUrl;
     public void read() throws FileNotFoundException {
-        // read text from file
         Scanner scan = new Scanner(new File(fileUrl));
         StringBuilder builder = new StringBuilder();
         while (scan.hasNext()) {
@@ -19,7 +18,7 @@ public class GraphIO {
         String newtext = builder.toString();
         System.out.println(newtext);
         scan.close();
-        // generate graph
+        
         G = new AdjGraph();
         String pre = null;
         scan = new Scanner(newtext);

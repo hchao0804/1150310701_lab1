@@ -104,6 +104,7 @@ public class AdjGraph {
     }
 
     public String queryBridgeWords(String word1, String word2) {
+        // query bridge words of two words
         if (!wordsMap.containsKey(word1) || !wordsMap.containsKey(word2))
             return null;
         EdgeNode p, q;
