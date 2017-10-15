@@ -1,3 +1,4 @@
+//lab c4 2.4
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;

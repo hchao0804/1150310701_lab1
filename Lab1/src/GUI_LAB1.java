@@ -1,5 +1,5 @@
 //lab3 1.4
-
+//lab c4 2.4
 import java.awt.*;
 
 import javax.imageio.ImageIO;

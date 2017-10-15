@@ -1,4 +1,4 @@
-
+//lab c4 2.4
 import java.util.HashMap;
 import java.util.Scanner;
 import java.util.Stack;
