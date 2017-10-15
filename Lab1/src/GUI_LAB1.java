@@ -1,5 +1,5 @@
 //lab3 1.4
-//lab b1 2.5
+//lab 2.6
 import java.awt.*;
 
 import javax.imageio.ImageIO;

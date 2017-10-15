@@ -1,4 +1,4 @@
-//lab b1 2.5
+//lab 2.6
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;

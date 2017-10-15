@@ -1,4 +1,4 @@
-//lab b1 2.5
+//lab 2.6
 import java.util.HashMap;
 import java.util.Scanner;
 import java.util.Stack;

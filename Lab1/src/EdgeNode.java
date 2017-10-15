@@ -1,4 +1,4 @@
-//lab b1 2.5
+//lab 2.6
 public class EdgeNode {
     int adjVex;
     int cost;
