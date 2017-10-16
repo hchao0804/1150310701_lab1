@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/tutorial/lab/action/BookAction.java=UTF-8
+encoding//src/tutorial/lab/dao/AuthorDAO.java=UTF-8
+encoding//src/tutorial/lab/dao/utils/JdbcUtils.java=UTF-8
