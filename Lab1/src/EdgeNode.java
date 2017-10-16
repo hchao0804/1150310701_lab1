@@ -1,4 +1,4 @@
-// 3.5
+// 3.5 by h
 public class EdgeNode {
     int adjVex;
     int cost;
