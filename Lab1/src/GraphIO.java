@@ -39,7 +39,6 @@ public class GraphIO {
         // generate new text
         s = G.generateNewText("Seek to explore new and exciting synergies");
         System.out.println(s);
-        // calculate Shortest Path
         System.out.print(G.calcShortestPath("to", "worlds") + " ");
         System.out.print(G.getDistanceOfPath("worlds"));
         System.out.print("\n");
